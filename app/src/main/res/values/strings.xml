@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MobLayout-2</string>
+    <string name="btn_1">Bob</string>
+    <string name="btn_2">Steve</string>
+    <string name="btn_3">George</string>
+    <string name="btn_4">Sébastien</string>
+    <string name="btn_5">Ivan</string>
+    <string name="btn_6">LeBlanc</string>
+    <string name="btn_7">MoMo</string>
+</resources>
